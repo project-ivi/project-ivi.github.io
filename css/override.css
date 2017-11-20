@@ -1,0 +1,27 @@
+.accent {
+  font-family: 'Merriweather', serif;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+
+a {
+  color:rgb(0,86,24);
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #ff8000;
+}
+
+a.btn-ivy {
+  color: white;
+  background-color: rgb(0,198,115);
+} 
